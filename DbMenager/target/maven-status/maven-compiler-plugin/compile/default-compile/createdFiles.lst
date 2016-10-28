@@ -1,0 +1,16 @@
+DbMenager\Comunicators\iComunicators.class
+DbMenager\Comunicators\ClientComunicator.class
+model\Adress.class
+DbMenager\Controlers\Key.class
+DbMenager\Controlers\ClientControler.class
+model\Client.class
+DbMenager\Bug.class
+model\OrderItem.class
+maternicki\App.class
+model\Order.class
+DbMenager\Controlers\iControlers.class
+DbMenager\Controlers\AdressControler.class
+DbMenager\OrderMenager.class
+DbMenager\Comunicators\OrderItemComunicator.class
+DbMenager\Controlers\OrderItemControler.class
+DbMenager\Comunicators\AdressComunicator.class
